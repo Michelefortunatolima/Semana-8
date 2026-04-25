@@ -9,6 +9,8 @@ Informações Gerais
 **Matrícula:** 928047
 
 **Proposta de projeto:** Manipulação de Objetos e Arrays utilizando JSON
+
+
 **Breve descrição sobre seu projeto:**  Nesta atividade, eu desenvolvi um catálogo de filmes e séries para praticar a manipulação de dados com JavaScript. Criei uma estrutura de dados usando objetos e arrays (JSON) e utilizei métodos modernos como map, filter e reduce para processar essas informações. O projeto calcula automaticamente médias de notas, filtra itens não assistidos e gera um resumo estatístico que é exibido tanto no console do navegador quanto diretamente na tela para o usuário.
 
 ## Prints do Projeto
